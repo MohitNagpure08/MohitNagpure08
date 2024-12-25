@@ -51,7 +51,7 @@ An interactive dashboard that visualizes and provides insights into complex data
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-nagpure-099194254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohit Nagpure" height="50" width="60" /></a>
-<a href="https://www.linkedin.com/in/mohit-nagpure-099194254/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="Mohit Nagpure" height="50" width="60" /></a>
+<a href="https://www.instagram.com/mr.mohit._._/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="Mohit Nagpure" height="50" width="60" /></a>
 <a href=" https://wa.me/qr/KA6ORZ4W7KUYL1  " target="blank"><img align="center" src="https://camo.githubusercontent.com/2f5ba03aa79e983b821be90c245ae64cb4f70cff266cf7f80a276307d75c84ee/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" alt="Mohit Nagpure" height="50" width="60" /></a>
 </p>
 
